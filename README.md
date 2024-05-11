@@ -12,8 +12,8 @@ This project is a simple yet powerful currency converter built using React.js. I
 ## Technologies Used
 
 - **React.js**: The application is built using React.js, a popular JavaScript library for building user interfaces.
-- **CSS**: The application uses CSS for styling and creating a responsive design.
-- **API**: The application fetches the latest exchange rates from a reliable API.
+- **Tailwind CSS**: The application uses CSS for styling and creating a responsive design.
+- **API**: The application fetches the latest exchange rates from a exchangerate-api.
 
 ## How to Use
 
